@@ -7,11 +7,13 @@
 
 - 🔭 I’m currently working on **Web Scraping project to collect listings on dental practices.**
 
+- 📊 Check out my completed **[HR analytics project](https://github.com/IlziraC/HR-analytics)** *(scroll to the bottom for visuals).*
+
 - 🌱 I’m currently learning **Python and SQL.**
 
 - 👯 I’m looking for **new fun data analytics projects to test and improve my skills!**
 
-- 👨‍💻 All of my projects are available at [https://github.com/IlziraC](https://github.com/IlziraC)
+- 👨‍💻 All of my projects are available at [github.com/IlziraC](https://github.com/IlziraC)
 
 - ⚡ My other interests are **baking, fishing, and spending time with my cat :)**
 
