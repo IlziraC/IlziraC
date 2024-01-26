@@ -5,13 +5,21 @@
 
 <p align="left"> <img src="https://user-images.githubusercontent.com/74038190/216658127-de9ffd2f-9302-45f3-82f5-1fa66dafa691.gif" width="160" /> </p>
 
-- 🔭 I’m currently working on **Web Scraping project to collect listings on dental practices.**
+- 🔭 Currently working on a **Project to analyze property market.**
 
-- 📊 Check out my completed **[HR analytics project](https://github.com/IlziraC/HR-analytics)** *(scroll to the bottom for visuals).*
+- 🌱 I’m continuously learning **Python and SQL.**
 
-- 🌱 I’m currently learning **Python and SQL.**
+- 👯 Looking for **new fun data analytics projects to test and improve my skills!**
 
-- 👯 I’m looking for **new fun data analytics projects to test and improve my skills!**
+- 📊 Check out my completed **[HR analytics project](https://github.com/IlziraC/HR-analytics)**
+
+   *Snip of Page 1, Power BI dashboard:*
+  ![](https://github.com/IlziraC/HR-analytics/blob/cf75cace6af4f0d57ddee9274605ab891e29cb1e/Power%20BI%20Dashboard%20-%20Page%201.png)
+  
+- 🏡 I recently finished a **[Web Scraping project to collect listings on dental practices.](https://github.com/IlziraC/DentalScrape)**
+
+  *Snip of Power BI dashboard:*
+  ![](https://github.com/IlziraC/DentalScrape/blob/86f02a413f1212701931963c765df61c3625b924/Power%20BI%20Dashboard%20-%20Web%20Scraping.png)
 
 - 👨‍💻 All of my projects are available at [github.com/IlziraC](https://github.com/IlziraC)
 
