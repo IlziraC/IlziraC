@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilzirac&label=Profile%20views&color=0e75b6&style=flat" alt="ilzirac" /> </p>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/216658127-de9ffd2f-9302-45f3-82f5-1fa66dafa691.gif" width="160" /> <img src="https://github.com/IlziraC/IlziraC/blob/1e1cfa7ce2ca79b067edf4d49e31f0d28b64b4f4/ICondor%20-%20Advanced%20SQL.png" height="160" width="260" /> <img src="https://github.com/IlziraC/IlziraC/blob/1e1cfa7ce2ca79b067edf4d49e31f0d28b64b4f4/ICondor%20-%20Python.png" height="160" width="260" /> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/74038190/216658127-de9ffd2f-9302-45f3-82f5-1fa66dafa691.gif" width="160" /> </p>
 
 - 🔭 Currently working on a **Project to analyze property market.**
 
@@ -32,6 +32,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="Power-BI" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p align="left"> <img src="https://github.com/IlziraC/IlziraC/blob/1e1cfa7ce2ca79b067edf4d49e31f0d28b64b4f4/ICondor%20-%20Advanced%20SQL.png" height="160" width="260" /> <img src="https://github.com/IlziraC/IlziraC/blob/1e1cfa7ce2ca79b067edf4d49e31f0d28b64b4f4/ICondor%20-%20Python.png" height="160" width="260" /> </p>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ilzirac"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="IlziraC" /></a></p><br><br>
