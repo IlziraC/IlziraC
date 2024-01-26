@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilzirac&label=Profile%20views&color=0e75b6&style=flat" alt="ilzirac" /> </p>
 
-<p align="left"> <img src="https://user-images.githubusercontent.com/74038190/216658127-de9ffd2f-9302-45f3-82f5-1fa66dafa691.gif" width="160" /> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/216658127-de9ffd2f-9302-45f3-82f5-1fa66dafa691.gif" width="160" /> <img src="https://github.com/IlziraC/IlziraC/blob/1e1cfa7ce2ca79b067edf4d49e31f0d28b64b4f4/ICondor%20-%20Advanced%20SQL.png" height="160" width="260" /> <img src="https://github.com/IlziraC/IlziraC/blob/1e1cfa7ce2ca79b067edf4d49e31f0d28b64b4f4/ICondor%20-%20Python.png" height="160" width="260" /> </p>
 
 - 🔭 Currently working on a **Project to analyze property market.**
 
