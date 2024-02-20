@@ -19,6 +19,11 @@
   *Snip of Power BI dashboard:*
   ![](https://github.com/IlziraC/DentalScrape/blob/86f02a413f1212701931963c765df61c3625b924/Power%20BI%20Dashboard%20-%20Web%20Scraping.png)
 
+- 💰 Feeling lucky? See if my **[Powerball Lottery Analysis](https://github.com/IlziraC/Powerball)** can help you win $1mil!
+
+  *Snip of Power BI dashboard:*
+  ![](https://github.com/IlziraC/Powerball/blob/6c05d1c0ded22c621e27c01fb1f5412bf7ba0211/Dashboard%20snip%20.png)
+
 - 👨‍💻 All of my projects are available at [github.com/IlziraC](https://github.com/IlziraC)
 
 - 👯 Looking for **new fun data analytics projects to test and improve my skills!**
